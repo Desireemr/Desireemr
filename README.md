@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou a Desirée Martins Rodrigues  
+# 👋 Olá, eu sou a Desirée!
 
 🎓 Bibliotecária em transição para a área de Dados  
 📍 São Paulo, Brasil  
