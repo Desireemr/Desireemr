@@ -26,10 +26,7 @@ Atualmente curso o **MBA em Data Science & Analytics (ESALQ-USP)**, aprimorando 
 ## 🛠️ Habilidades e Ferramentas  
 
 **Linguagens e manipulação de dados:**  
-🐍 Python (pandas, matplotlib, seaborn)  [Certificado economia da inovação.pdf](https[Desiree Martins Rodrigues.pdf](https://github.com/user-attachments/files/22937467/Desiree.Martins.Rodrigues.pdf)
-://githu[certificado924478.pdf](https://github.com/user-attachments/files/22937452/certificado924478.pdf)
-b.com/user-attachments/files/22937449/Certificado.economia.da.inovacao.pdf)
-
+🐍 Python (pandas e seaborn)
 🧩 SQL  
 
 **Visualização e dashboards:**  
