@@ -52,4 +52,3 @@ Atuar como **Analista de Dados**, **Cientista de Dados** ou **Desenvolvedora Bac
 
 ---
 
-✨ *“Transformar informação em conhecimento é o que me move.”*
